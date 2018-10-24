@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.24)  24 OCT 2018 11:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.24)  24 OCT 2018 11:58
 entering extended mode
 **./principal.tex
 (principal.tex
@@ -106,26 +106,30 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen108
 \Gin@req@width=\dimen109
-) (principal.aux
-LaTeX Info: Redefining \. on input line 6.
-LaTeX Info: Redefining \% on input line 6.
+)
+\@input{latex_parts/vars.aux}
+\openout2 = `latex_parts/vars.aux'.
+
+(latex_parts/vars.tex) (principal.aux (latex_parts/1_portada.aux)
+LaTeX Info: Redefining \. on input line 7.
+LaTeX Info: Redefining \% on input line 7.
 )
 \openout1 = `principal.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Info: Redefining \. on input line 8.
-LaTeX Info: Redefining \% on input line 8.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Info: Redefining \. on input line 12.
+LaTeX Info: Redefining \% on input line 12.
 
 ("C:\Users\SebastiaN\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pd
 f.mkii"
@@ -205,31 +209,38 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
+\openout2 = `latex_parts/1_portada.aux'.
+
+ (latex_parts/1_portada.tex
 <./logos/puce.png, id=1, 579.16376pt x 183.68625pt>
 File: ./logos/puce.png Graphic file (type png)
 <use ./logos/puce.png>
-Package pdftex.def Info: ./logos/puce.png  used on input line 14.
+Package pdftex.def Info: ./logos/puce.png  used on input line 7.
 (pdftex.def)             Requested size: 227.62204pt x 72.19229pt.
  [1
 
 
+
+
+
 {C:/Users/SebastiaN/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./logos
-/puce.png>] (principal.aux
-LaTeX Info: Redefining \. on input line 6.
-LaTeX Info: Redefining \% on input line 6.
+/puce.png>]) (principal.aux
+(latex_parts/1_portada.aux)
+LaTeX Info: Redefining \. on input line 7.
+LaTeX Info: Redefining \% on input line 7.
 ) ) 
 Here is how much of TeX's memory you used:
- 2392 strings out of 492970
- 34863 string characters out of 3124817
- 104766 words of memory out of 3000000
- 6253 multiletter control sequences out of 15000+200000
+ 2406 strings out of 492970
+ 35270 string characters out of 3124817
+ 105329 words of memory out of 3000000
+ 6255 multiletter control sequences out of 15000+200000
  4842 words of font info for 18 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,5n,31p,319b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,5n,31p,332b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/SebastiaN/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/ams
 fonts/cm/cmbx12.pfb><C:/Users/SebastiaN/AppData/Local/Programs/MiKTeX 2.9/fonts
 /type1/public/amsfonts/cm/cmr12.pfb>
-Output written on principal.pdf (1 page, 35179 bytes).
+Output written on principal.pdf (1 page, 35178 bytes).
 PDF statistics:
  17 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
